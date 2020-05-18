@@ -3,7 +3,6 @@
             [re-frame.core :as re-frame]
             [status-im.ethereum.core :as ethereum]
             [status-im.ethereum.json-rpc :as json-rpc]
-            [status-im.hardwallet.card :as card]
             [status-im.utils.fx :as fx]
             [status-im.utils.money :as money]
             [status-im.utils.types :as types]
